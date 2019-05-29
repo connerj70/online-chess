@@ -1,0 +1,14 @@
+.square {
+    background: coral;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+
+.brown {
+    background: brown;
+}
+
+.selected {
+    border: 10px solid yellow;
+}

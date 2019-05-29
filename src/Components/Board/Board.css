@@ -1,0 +1,9 @@
+.board-container {
+    width: 80vh;
+    height: 80vh;
+    background: bisque;
+    margin: 0 auto;
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+    grid-template-columns: repeat(8, 1fr);
+}
